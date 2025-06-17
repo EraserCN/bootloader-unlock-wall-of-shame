@@ -10,6 +10,8 @@ Following Asus's false claims of a bootloader unlock eventually coming back, a U
 
 Asus is still claiming the unlock site will come back eventuallly, but considering how long it's been closed, the anti-rollback, and them losing a lawsuit over their unlockable bootloader claims, it's safe to say it'll probably never come back.
 
+Chinese market ROG phones sold under Tencent ROG name cannot be unlocked at all.
+
 ***
 Authored by [Ivy / Lost-Entrepreneur439](https://github.com/Lost-Entrepreneur439).<br/>
 
